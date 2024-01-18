@@ -20,5 +20,7 @@ https://open.spotify.com/intl-es/track/2LCGFBu1ej6zt4r1VGPjny?si=790dd159c8ad4b4
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 -->
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=laiarodriguezdev&theme=radical" alt="candida18"  />
+
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=laiarodriguezdev&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiarodriguezdev&layout=compact&theme=radical&hide_border=true" /></a> 
