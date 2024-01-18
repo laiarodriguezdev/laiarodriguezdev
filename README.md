@@ -19,12 +19,16 @@ Here are some ideas to get you started:
 https://open.spotify.com/intl-es/track/2LCGFBu1ej6zt4r1VGPjny?si=790dd159c8ad4b4b
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 -->
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/laiarodriguezdev?color=236ad3&style=for-the-badge&logo=github&label=Follow"/> <img alt="views" title="Profile views" src="https://komarev.com/ghpvc/?username=laiarodriguezdev&style=for-the-badge"/>
+<br/>
+
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/> 
+<br/>
 
 
-  <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laiarodriguezdev&theme=radical&hide_border=true" alt="laiarodriguezdev"/><br>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=laiarodriguezdev&show_icons=true&count_private=true&theme=radical&hide_border=true" height="192px" alt="laiarodriguezdev"/></a> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laiarodriguezdev&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="laiarodriguezdev" height="192px"/>
+  <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Laia Github Stats" src="https://github-readme-stats.vercel.app/api?username=laiarodriguezdev&show_icons=true&count_private=true&theme=radical&hide_border=true" height="192px"/></a> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laiarodriguezdev&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Laia Github Most Used Languages" height="192px"/>
   </p>
-
 
 
