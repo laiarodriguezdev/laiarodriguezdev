@@ -20,6 +20,6 @@ https://open.spotify.com/intl-es/track/2LCGFBu1ej6zt4r1VGPjny?si=790dd159c8ad4b4
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=laiarodriguezdev&theme=radical&hide_border=true" alt="laiarodriguezdev"  />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=laiarodriguezdev&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="laiarodriguezdev" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiarodriguezdev&layout=compact&theme=radical&hide_border=true" alt="laiarodriguezdev"/>
+<center><img src="https://github-readme-streak-stats.herokuapp.com/?user=laiarodriguezdev&theme=radical&hide_border=true" alt="laiarodriguezdev"  /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiarodriguezdev&layout=compact&theme=radical&hide_border=true" alt="laiarodriguezdev"/></center>
+
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=laiarodriguezdev&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="laiarodriguezdev" />-->
