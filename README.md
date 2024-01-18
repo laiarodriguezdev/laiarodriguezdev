@@ -22,13 +22,11 @@ https://open.spotify.com/intl-es/track/2LCGFBu1ej6zt4r1VGPjny?si=790dd159c8ad4b4
 
 
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=laiarodriguezdev&show_icons=true&count_private=true&theme=radical" height="192px" alt="laiarodriguezdev"/></a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=laiarodriguezdev&show_icons=true&locale=en&layout=compact&theme=radical" alt="laiarodriguezdev" height="192px"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laiarodriguezdev&theme=radical&hide_border=true" alt="laiarodriguezdev"/><br>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=laiarodriguezdev&show_icons=true&count_private=true&theme=radical&hide_border=true" height="192px" alt="laiarodriguezdev"/></a> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laiarodriguezdev&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="laiarodriguezdev" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laiarodriguezdev&theme=radical&hide_border=true" alt="laiarodriguezdev"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiarodriguezdev&layout=compact&theme=radical&hide_border=true" alt="laiarodriguezdev"/>
-<img  align="center" src="https://github-readme-stats.vercel.app/api?username=laiarodriguezdev&theme=radical&show_icons=true&count_private=true&hide_border=true" alt="laiarodriguezdev"/>
-<img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=laiarodriguezdev&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide_border=true" alt="laiarodriguezdev"/>
+
 
