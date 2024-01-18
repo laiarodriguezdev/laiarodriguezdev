@@ -24,6 +24,7 @@ https://open.spotify.com/intl-es/track/2LCGFBu1ej6zt4r1VGPjny?si=790dd159c8ad4b4
 
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/> 
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/> 
 <br/>
 
 
