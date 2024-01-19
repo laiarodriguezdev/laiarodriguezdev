@@ -20,10 +20,14 @@ https://open.spotify.com/intl-es/track/2LCGFBu1ej6zt4r1VGPjny?si=790dd159c8ad4b4
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 -->
 
-<div style="border-radius:0.35rem;box-sizing:border-box;">
-  <!----------------ICONS GITHUB // LINK---------------->
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/laiarodriguezdev?color=236ad3&style=for-the-badge&logo=github&label=Follow"/> <img alt="views" title="Profile views" src="https://komarev.com/ghpvc/?username=laiarodriguezdev&style=for-the-badge"/>
+
+
+<div class="btns-laia">
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/laiarodriguezdev?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 </div>
+
+
+<img class="btns-laia" alt="views" title="Profile views" src="https://komarev.com/ghpvc/?username=laiarodriguezdev&style=for-the-badge"/>
 
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/> 
 
@@ -33,3 +37,7 @@ https://open.spotify.com/intl-es/track/2LCGFBu1ej6zt4r1VGPjny?si=790dd159c8ad4b4
   </p>
 
 
+<style>
+  .btns-laia{border-radius:.35rem;box-sizing:border-box;}
+  
+</style>
