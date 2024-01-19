@@ -18,19 +18,22 @@ Here are some ideas to get you started:
 https://open.spotify.com/intl-es/track/2LCGFBu1ej6zt4r1VGPjny?si=790dd159c8ad4b4b
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 -->
-<div style="border-radius:0.35rem;box-sizing:border-box;">
+
+<link rel="stylesheet" type="text/css" href="/style.css">
+
+<div class="prova">
   
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
-![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=laiarodriguezdev&row=1&theme=radial)]
+![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=laiarodriguezdev&row=1&theme=radial)
 
-<div style="border-radius:0.35rem;box-sizing:border-box;">
-  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/laiarodriguezdev?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+<div class="prova">
+  <img alt="vsCode" title="vsCode" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/> 
 </div>
 
-<img alt="vsCode" title="vsCode" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>  <img alt="codepen" title="codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/> 
+<img alt="vsCode" title="vsCode" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/> <img alt="codepen" title="codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laiarodriguezdev&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Laia Github Most Used Languages" height="192px"/>
