@@ -26,7 +26,9 @@ https://open.spotify.com/intl-es/track/2LCGFBu1ej6zt4r1VGPjny?si=790dd159c8ad4b4
 
 
 
-  <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Laia Github Stats" src="https://github-readme-stats.vercel.app/api?username=laiarodriguezdev&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commit=false" height="192px"/></a> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laiarodriguezdev&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Laia Github Most Used Languages" height="192px"/>
+  <p align="center">
+    <!--<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Laia Github Stats" src="https://github-readme-stats.vercel.app/api?username=laiarodriguezdev&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commit=false" height="192px"/></a>-->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laiarodriguezdev&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Laia Github Most Used Languages" height="192px"/>
   </p>
 
 
