@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<!--
+
 //IDEA SPOTIFY ---- NF GONE.
 https://open.spotify.com/intl-es/track/2LCGFBu1ej6zt4r1VGPjny?si=790dd159c8ad4b4b
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
@@ -24,6 +23,8 @@ https://open.spotify.com/intl-es/track/2LCGFBu1ej6zt4r1VGPjny?si=790dd159c8ad4b4
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
+
+![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=laiarodriguezdev&row=1&theme=radial)]
 
 <div style="border-radius:0.35rem;box-sizing:border-box;">
   <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/laiarodriguezdev?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
