@@ -23,10 +23,6 @@ https://open.spotify.com/intl-es/track/2LCGFBu1ej6zt4r1VGPjny?si=790dd159c8ad4b4
 
 ![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=laiarodriguezdev&row=1&theme=radial)
 
-<div class="prova">
-  <img alt="vsCode" title="vsCode" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/> 
-</div>
-
 <img alt="vsCode" title="vsCode" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/> <img alt="codepen" title="codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
 
   <p align="center">
