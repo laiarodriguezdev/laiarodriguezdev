@@ -21,12 +21,6 @@ https://open.spotify.com/intl-es/track/2LCGFBu1ej6zt4r1VGPjny?si=790dd159c8ad4b4
 
 <link rel="stylesheet" type="text/css" href="/style.css">
 
-<div class="prova">
-  
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-</div>
-
 ![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=laiarodriguezdev&row=1&theme=radial)
 
 <div class="prova">
