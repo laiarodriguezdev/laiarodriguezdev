@@ -24,8 +24,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-[![Spotify](https://laiarodriguezdevspotify.vercel.app/api/spotify)](https://open.spotify.com/user/faq7ma3o3jiijeswkdiecmcu0)
-
 With over five years of experience in computing, my professional journey has transitioned from game-focused programming to the realm of web development. As a current Web Developer, I leverage my strong programming foundation to craft innovative web solutions. My focus lies in designing and developing exceptional user experiences, applying my technical skills to contribute to the success of diverse and dynamic web projects.
 
 * 🌍  I'm based in Barcelona
@@ -38,3 +36,7 @@ With over five years of experience in computing, my professional journey has tra
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laiarodriguezdev&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Laia Github Most Used Languages" height="192px"/>
   </p>
+  
+### Listening
+
+[![Spotify](https://laiarodriguezdevspotify.vercel.app/api/spotify)](https://open.spotify.com/user/faq7ma3o3jiijeswkdiecmcu0)
