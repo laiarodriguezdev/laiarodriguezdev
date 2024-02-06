@@ -18,7 +18,7 @@ https://open.spotify.com/intl-es/track/2LCGFBu1ej6zt4r1VGPjny?si=790dd159c8ad4b4
 -->
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Laia Rodríguez
+Hi 👋 My name is Laia Rodríguez
 ======================================================================================================================================
 
 Software Developer
