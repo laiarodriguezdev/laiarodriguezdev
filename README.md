@@ -29,7 +29,7 @@ With over five years of experience in computing, my professional journey has tra
 * 🌍  I'm based in Barcelona
 * 🖥️  See my portfolio at [onProgress();](http://google.com)
 * ✉️  You can contact me at [laiarodriguezdev@gmail.com](mailto:laiarodriguezdev@gmail.com)
-* 🚀  I'm currently working on [secret();](http://google.com)
+* 🚀  I'm currently working on [inetum.exe;](https://www.inetum.com/es)
 * 🧠  I'm learning React.
 
 ### Others
