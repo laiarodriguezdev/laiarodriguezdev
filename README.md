@@ -30,7 +30,7 @@ With over five years of experience in computing, my professional journey has tra
 * 🖥️  See my portfolio at [onProgress();](http://google.com)
 * ✉️  You can contact me at [laiarodriguezdev@gmail.com](mailto:laiarodriguezdev@gmail.com)
 * 🚀  I'm currently working on [inetum.exe;](https://www.inetum.com/es)
-* 🧠  I'm learning Astro, Freemarker and Liferay.
+* 🧠  I'm learning Astro, React, Freemarker and Liferay.
 
 ### Others
   <p align="center">
