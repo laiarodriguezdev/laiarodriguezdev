@@ -27,9 +27,9 @@ Software Developer
 With over five years of experience in computing, my professional journey has transitioned from game-focused programming to the realm of web development. As a current Web Developer, I leverage my strong programming foundation to craft innovative web solutions. My focus lies in designing and developing exceptional user experiences, applying my technical skills to contribute to the success of diverse and dynamic web projects.
 
 * 🌍  I'm based in Palamós (Baix Empordà)
-* 🖥️  See my portfolio at [onProgress();](http://google.com)
+* 🖥️  See my portfolio at [onProgress();](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 * ✉️  You can contact me at [laiarodriguezdev@gmail.com](mailto:laiarodriguezdev@gmail.com)
-* 🚀  I'm currently working on [inetum.exe;](https://www.inetum.com/es)
+* 🚀  Open to work. 
 * 🧠  I'm learning Astro, React, Freemarker and Liferay.
 
 ### Others
